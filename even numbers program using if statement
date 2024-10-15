@@ -1,0 +1,13 @@
+//Conditional statements:
+//Even numbers program using if:
+#include<stdio.h>
+int main()
+{
+    int n=10;
+ if(n%2==0)
+{  printf("the number is even");
+}
+return 0;
+}
+Output:
+the number is even
